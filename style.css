@@ -1,4 +1,4 @@
-*,
+*
  {
     margin: 0;
     padding: 0;
@@ -103,12 +103,7 @@ button:active{
     margin-bottom: 20px;
 }
 
-#category{
-    /* grid-column: 2 / span 1; */
-    /* margin-top: 0; */
-    /* margin: auto; */
-    
-}
+
 
 /* QUIZ COMPONENT */
 main{
